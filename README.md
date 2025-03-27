@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Lucas Barreto
+# 👋 Olá! Eu sou o Lucas Barreto
 
 # 💫 About Me:
 💻 Desenvolvedor Full-Stack | E-commerce | Mobile Apps | Marketing Digital<br><br>🚀 Apaixonado por tecnologia e inovação, tenho experiência no desenvolvimento de websites, e-commerce, aplicações móveis e sistemas personalizados. Atualmente, estou a desenvolver um aplicativo em Flutter/Dart para Android, além de trabalhar com Shopify, WordPress e desenvolvimento web.<br><br>🔹 Habilidades principais:<br>🌐 Desenvolvimento Web: HTML, CSS, JavaScript, React<br>🛒 E-commerce: Shopify, WooCommerce, Dropshipping<br>📱 Aplicações Móveis: Flutter/Dart<br>⚙️ Back-end: PHP, MySQL, Firebase<br>📊 Marketing Digital & SEO<br>🎨 Design e Edição de Conteúdo<br><br>💡 Sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e impactar o mundo da tecnologia!
