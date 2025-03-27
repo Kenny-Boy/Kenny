@@ -1,6 +1,4 @@
-# Kenny
-
-## 👋 Olá! Eu sou o Lucas Lukeny
+## 👋 Olá! Eu sou o Lucas Barreto
 💻 Desenvolvedor Full-Stack | E-commerce | Mobile Apps | Marketing Digital
 
 🚀 Apaixonado por tecnologia e inovação, tenho experiência no desenvolvimento de websites, e-commerce, aplicações móveis e sistemas personalizados. Atualmente, estou a desenvolver um aplicativo em Flutter/Dart para Android, além de trabalhar com Shopify, WordPress e desenvolvimento web.
